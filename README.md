@@ -1,6 +1,6 @@
 # Introduction
 
-This is homework project for lesson 1 of version 3 of [fast.ai](www.fast.ai) course.
+This is homework project for lesson 1 of version 3 of [fast.ai](https://www.fast.ai) course.
 
 I use Oxford VFF 102 flowers data set and a pretrained model to classify the flowers.
 
